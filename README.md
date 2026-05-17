@@ -1,5 +1,40 @@
-# 💫 About Me:
-Hi, I'm Sriji.<br><br>I work across backend engineering, systems programming, infrastructure, and reverse engineering.<br><br>Areas I work with:<br>- Python / Django<br>- TypeScript / React<br>- C / C++<br>- Linux & Bash<br>- Docker & GCP<br>- SSH automation<br>- Android app & game reverse engineering<br>- Developer tooling & deployment systems<br><br>Interested in:<br>- scalable backend systems<br>- cloud infrastructure<br>- CI/CD & automation<br>- low-level programming<br>- reverse engineering
+# 💫 Hi 👋, I'm Sriji
+
+A backend, systems, and infrastructure developer from India.
+
+I work across:
+
+* Python / Django
+* TypeScript / React
+* C / C++
+* Linux & Bash
+* Docker & GCP
+* SSH automation
+* Reverse engineering with Ghidra
+* Android app & game analysis
+
+## 🚀 Interests
+
+* Backend architecture
+* Cloud infrastructure
+* Deployment systems
+* Automation tooling
+* Linux systems
+* Reverse engineering
+* Developer tooling
+
+## 🛠 Tech Stack
+
+Python • Django • TypeScript • React • C • C++ • Docker • GCP • Linux • Bash • Git • SSH • Ghidra
+
+## 🔍 Currently Exploring
+
+* scalable infrastructure
+* CI/CD systems
+* container orchestration
+* low-level systems
+* Android internals
+* security research
 
 
 ## 🌐 Socials:
