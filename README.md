@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sriji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Backend+%26+Infrastructure+Developer;Linux+%2F+Docker+%2F+Cloud;Reverse+Engineering+%26+Systems;Building+automation+and+developer+tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=Backend+%26+Infrastructure+Developer;Linux+%2F+Docker+%2F+Cloud;Reverse+Engineering+%26+Systems;Building+automation+and+developer+tools" />
 </p>
 
 <p align="center">
