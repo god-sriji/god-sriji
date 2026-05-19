@@ -27,7 +27,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=god-sriji&theme=github-compact&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijii&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
 Python • Django • TypeScript • React • C • C++ • Docker • GCP • Linux • Bash • Git • SSH • Ghidra
@@ -73,14 +73,14 @@ Python • Django • TypeScript • React • C • C++ • Docker • GCP • 
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=god-sriji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=god-sriji&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=god-sriji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=srijii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=srijii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=srijii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=god-sriji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=srijii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://views.igorkowalczyk.dev/api/badge/god-sriji?label=Profile+Views&color=blue&format=short)
+![](https://views.igorkowalczyk.dev/api/badge/srijii?label=Profile+Views&color=blue&format=short)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
